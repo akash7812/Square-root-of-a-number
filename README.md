@@ -34,7 +34,8 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![output](./squareoutput.png)
+![output](https://github.com/akash7812/Square-root-of-a-number/assets/146819826/c321b713-2019-4450-bc4e-23202a406139)
+
 
 
 ## Result:
